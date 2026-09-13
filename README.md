@@ -11,4 +11,4 @@ Can a smaller number of model interactions produce reasoning that is comparable 
 Asymmetric Update Governance (AUG) uses three model calls:
 
 ```text
-Agent A₁ → Agent B (critique) → Agent A₂ (final)
+Agent A₁ → Agent B (critique by presenting weak points in arguments and reasoning) → Agent A₂ (final)
